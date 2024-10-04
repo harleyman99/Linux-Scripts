@@ -1,1 +1,1 @@
-
+This repository contains Linux Scripts for installing software needed for the Cisco Learning Series. The scripts will aid in the easy installation of any dependent software packages needed to run software for the Cisco classes.  
